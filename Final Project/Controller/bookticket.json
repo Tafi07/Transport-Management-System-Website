@@ -1,0 +1,27 @@
+
+[
+{
+"name":"Fly Emirates",
+"class":"Business",
+"departure": "Shahajalal Airport",
+"arrival":"Dubai International Airport"
+},
+{
+"name":"Biman Bangladesh",
+"class":"Economics",
+"departure": "Jashore Airport",
+"arrival":"Dubai International Airport"
+},
+{
+"name":"Turkish Airlines",
+"class":"Economics",
+"departure": "Osmani International Airport, Sylhet",
+"arrival":"Dubai International Airport"
+}
+]
+2
+Shahjalaj International Airport
+Ermoupoli,Greece
+11/8/2022
+18/8/2022
+Business/Economy

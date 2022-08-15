@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(../images/airplane.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    margin-top: 200px;
+}
+.back-btn {
+    background-color: #E0FFFF;
+    display: block;
+    margin: 20px 0px 0px 20px;
+    position: fixed;
+    left: 10px;
+    top: 550px;
+    text-align: center;
+    border-radius: 12px;
+    border: 2px solid #366473;
+    padding: 14px 110px;
+    outline: none;
+    color: black;
+    cursor: pointer;
+    transition: 0.25px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.userinfo {
+    background-color: #E9967A;
+    display: block;
+    margin: 10px 10px 10px 10px;
+    position: fixed;
+    left: 450px;
+    top: 350px;
+    text-align: center;
+    border-radius: 12px;
+    border: 2px solid #366473;
+    padding: 14px 67px;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    transition: 0.25px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.bookticket {
+    background-color: #E9967A;
+    display: block;
+    margin: 10px 10px 10px 10px;
+    position: fixed;
+    left: 450px;
+    top: 250px;
+    text-align: center;
+    border-radius: 12px;
+    border: 2px solid #366473;
+    padding: 14px 110px;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    transition: 0.25px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.recommendation {
+    background-color: #E9967A;
+    display: block;
+    margin: 10px 10px 10px 10px;
+    position: fixed;
+    left: 450px;
+    top: 150px;
+    text-align: center;
+    border-radius: 12px;
+    border: 2px solid #366473;
+    padding: 14px 25px;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    transition: 0.25px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.welcome {
+    position: fixed;
+    left: 350px;
+    top: 10px;
+    width: 600px;
+    background-color: #E0FFFF;
+    margin: auto;
+    color: black;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 15px 15px;
+}
+.manager {
+    position: fixed;
+    left: 1050px;
+    top: 10px;
+    width: 200px;
+    background-color: #E0FFFF;
+    margin: auto;
+    color: black;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 15px 15px;
+}
+.help-desk {
+    position: fixed;
+    left: 10px;
+    top: 10px;
+    width: 300px;
+    background-color: #E0FFFF;
+    margin: auto;
+    color: black;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 15px 15px;
+}			
